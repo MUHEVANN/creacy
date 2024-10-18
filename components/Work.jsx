@@ -21,7 +21,7 @@ function Work() {
           <p className="text-xl text-white/60 max-w-[500px]">
             Embark On A Visual Journey Through Our Cherished Moments Captured
             With Creativity And Precision. Each Image In Our Portfolio Reflects
-            Our Dedication To Preserving Life's Beauty And Significance.
+            Our Dedication To Preserving Life&apos;s Beauty And Significance.
           </p>
           <ButtonWithUp size="lg" variant="outline">
             Explore

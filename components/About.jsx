@@ -9,7 +9,7 @@ function About() {
         <SectionName number="(01)">About</SectionName>
         <div>
           <p className="capitalize text-white/60 max-w-[450px]">
-            We Ardently Strive To Encapsulate Life's Most Precious Moments,
+            We Ardently Strive To Encapsulate Life&apos;s Most Precious Moments,
             Weaving A Tapestry Of Artistry And A Hint Of Enchanting Magic With
             The Timeless Essence Of The Human Experience.
           </p>
@@ -18,7 +18,7 @@ function About() {
       <div>
         <h1 className="big-text font-third text-white/60">
           <BoldSpan>Photography</BoldSpan> is driven by a deep passion for{" "}
-          <BoldSpan>capturing life's</BoldSpan> most{" "}
+          <BoldSpan>capturing life&apos;s</BoldSpan> most{" "}
           <BoldSpan>precious moments</BoldSpan> with artistry and a touch of
           magic
         </h1>
