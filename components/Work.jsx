@@ -30,7 +30,7 @@ function Work() {
       </div>
 
       {/* hover card */}
-      <div className="flex gap-4 mt-24">
+      <div className="flex flex-wrap gap-4 mt-24">
         {works.map((work, i) => (
           <div
             className={`flex-1 w-full hover:grow-[2] hover:cursor-pointer transition-300 min-h-[600px] rounded-lg bg-center bg-cover bg-no-repeat group relative`}

@@ -16,8 +16,8 @@ function HoverTrigger({ children, year, i }) {
       onClick={() => handleHover(i)}
       className="flex justify-between  transition-300 hover:cursor-pointer hover:rounded-lg border-b  hover:bg-secondary p-5 group"
     >
-      <span className="text-xl">{year}</span>
-      <h2 className="text-3xl capitalize font-third max-w-[300px] ">
+      <span className="md:text-xl text-md">{year}</span>
+      <h2 className="text-[20px] md:text-[30px] font-semibold md:font-normal capitalize font-third max-w-[200px] md:max-w-[300px] ">
         {children}
       </h2>
       <Button

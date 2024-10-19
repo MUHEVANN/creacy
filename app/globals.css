@@ -86,5 +86,5 @@ body {
 }
 
 .big-text {
-  @apply text-3xl sm:text-4xl md:text-6xl max-w-[700px];
+  @apply text-3xl sm:text-4xl md:text-6xl w-full md:max-w-[700px];
 }
